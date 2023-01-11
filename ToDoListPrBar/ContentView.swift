@@ -1,9 +1,7 @@
 //
 //  ContentView.swift
 //  ToDoListPrBar
-//
-//  Created by Юлия Бубнова on 09.01.2023.
-//
+
 
 import SwiftUI
 
