@@ -9,7 +9,9 @@ struct ProgressBarView: View {
     
     var width: CGFloat = 300
     var height: CGFloat = 14
+    
     var percent: CGFloat = 0.0
+    //Will be initialized in ContentView
    
   
     var body: some View {

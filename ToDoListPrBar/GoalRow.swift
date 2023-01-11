@@ -6,6 +6,8 @@
 import Foundation
 import SwiftUI
 
+
+// Struct for row in ContentView List
 struct GoalRow: View {
     var goal: Goal
     var body: some View {
